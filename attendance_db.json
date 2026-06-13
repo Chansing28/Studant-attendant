@@ -1,0 +1,93 @@
+{
+  "students": [
+    {
+      "id": "S1001",
+      "name": "សុខ ជា",
+      "gender": "M",
+      "dob": "2005-04-12",
+      "classId": "B10"
+    },
+    {
+      "id": "S1002",
+      "name": "ចាន់ ភារម្យ",
+      "gender": "M",
+      "dob": "2004-11-23",
+      "classId": "B10"
+    },
+    {
+      "id": "S1003",
+      "name": "ម៉ៅ សុខា",
+      "gender": "F",
+      "dob": "2005-08-30",
+      "classId": "B10"
+    },
+    {
+      "id": "S1004",
+      "name": "សេង ហុង",
+      "gender": "M",
+      "dob": "2004-01-15",
+      "classId": "B11"
+    },
+    {
+      "id": "S1005",
+      "name": "លី ស្រីនី",
+      "gender": "F",
+      "dob": "2005-09-05",
+      "classId": "B11"
+    },
+    {
+      "id": "S1006",
+      "name": "កែវ សុវណ្ណ",
+      "gender": "F",
+      "dob": "2004-06-20",
+      "classId": "B20"
+    },
+    {
+      "id": "S1007",
+      "name": "ជា តារា",
+      "gender": "M",
+      "dob": "2003-12-10",
+      "classId": "B20"
+    },
+    {
+      "id": "S1008",
+      "name": "សំ អាង",
+      "gender": "F",
+      "dob": "2005-02-14",
+      "classId": "B30"
+    },
+    {
+      "id": "S1009",
+      "name": "ហេង វិសាល",
+      "gender": "M",
+      "dob": "2004-07-19",
+      "classId": "B30"
+    }
+  ],
+  "sessions": [
+    {
+      "id": "sess-default-1",
+      "classId": "B10",
+      "date": "2026-06-11",
+      "timeSlot": "08:00 - 09:30",
+      "subject": "គណនេយ្យហិរញ្ញវត្ថុ",
+      "createdAt": "2026-06-11T08:26:51.237Z"
+    }
+  ],
+  "records": [
+    {
+      "id": "rec-def-1",
+      "sessionId": "sess-default-1",
+      "studentId": "S1001",
+      "studentName": "សុខ ជា",
+      "gender": "M",
+      "dob": "2005-04-12",
+      "classId": "B10",
+      "timestamp": "2026-06-11T08:26:51.237Z",
+      "status": "Present"
+    }
+  ],
+  "settings": {
+    "teacherPin": "1511"
+  }
+}
